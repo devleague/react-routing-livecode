@@ -1,0 +1,16 @@
+.header ul {
+  margin: 0;
+  padding: 15px;
+  background-color: #094fbf;
+}
+
+.header ul li {
+  margin-right: 25px;
+  list-style-type: none;
+  display: inline-block;
+}
+
+.header ul li a {
+  text-decoration: none;
+  color: white;
+}
